@@ -14,3 +14,10 @@ Step : ➊ ➼
       ◙ run npm start
 
 
+Design Website :   ➼ 
+       
+       ◙ Create file style.css inside src folder
+       ◙ Link style.css to index.html <link rel="stylesheet" href="style.css"
+       ◙ Inside index.html create three div containners header, main and footer and style them 
+       for example see the file index.htm, comments will help you out
+
